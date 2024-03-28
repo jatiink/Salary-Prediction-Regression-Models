@@ -1,5 +1,4 @@
-# Salary Prediction/ Regression Models
-
+# Salary Prediction(Regression Models)
 ## Overview
 Developed machine learning models to predict IT salaries based on various factors using Python. </br> The project involved data preprocessing, model evaluation, and visualization of results.
 
